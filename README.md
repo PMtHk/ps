@@ -1,2 +1,3 @@
 # leetcode
-하루 하나 leetcode 풀기
+
+하루 한 문제
