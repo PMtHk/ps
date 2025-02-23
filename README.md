@@ -4,4 +4,5 @@
 
 ## 다시 풀 문제
 
- leetcode 827
+leetcode 827
+leetcode 889
