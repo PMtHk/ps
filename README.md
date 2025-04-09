@@ -4,6 +4,7 @@
 
 ## 다시 풀 문제
 
+- leetcode 416
 - leetcode 827
 - leetcode 889
 - leetcode 2467
